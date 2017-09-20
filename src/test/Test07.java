@@ -29,3 +29,4 @@ public class Test07 extends Applet implements Runnable {
 		g.drawString(str,10,10);
 	}
 }
+
